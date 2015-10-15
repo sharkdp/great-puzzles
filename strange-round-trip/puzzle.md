@@ -1,4 +1,4 @@
-# Strange roundtrip
+# Strange round trip
 
 [![Source](https://img.shields.io/badge/Source-%E2%9C%93-green.svg)](http://mindyourdecisions.com/blog/2011/02/22/one-mile-south-one-mile-east-one-mile-north-a-classic-puzzle/)
 ![Difficulty](https://img.shields.io/badge/Difficulty-medium-yellow.svg)

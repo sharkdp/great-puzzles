@@ -1,4 +1,4 @@
-# Strange roundtrip: solution
+# Strange round trip: solution
 
 One solution is given by the north pole. Any direction is south on the north
 pole. Choose one and travel one mile straight. Now travel one mile east along

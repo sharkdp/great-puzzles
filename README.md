@@ -8,7 +8,7 @@ corrections or clarifications.
 
 ## Choose a puzzle
 
-* [Strange roundtrip](strange-roundtrip/puzzle.md)
+* [Strange round trip](strange-round-trip/puzzle.md)
 * [Blindfolded tricks](blindfolded-tricks/puzzle.md)
 * [Ants on a meter stick](ants-on-a-meter-stick/puzzle.md)
 * [Rational pirates](rational-pirates/puzzle.md)
