@@ -35,7 +35,7 @@ solution.
 additional questions arise while solving the puzzle, they should be irrelevant
 to the solution.
 
-## Examples of puzzles that do *not* belong on this list
+### Examples of puzzles that do *not* belong on this list
 
 1. [Zebra puzzle](https://en.wikipedia.org/wiki/Zebra_Puzzle). This can be
 solved by putting a lot of work into it. While this can be great fun, it is
