@@ -1,9 +1,9 @@
 # Rational pirates: solution
 
-The oldest pirate will propose a *97, 0, 1, 0, 2* split (he gets 97 coins) and
+The oldest pirate will propose a *97, 0, 1, 2, 0* split (he gets 97 coins) and
 win the vote 3:2.
 
-[Alternative solution: *97, 0, 1, 2, 0* split.]
+[Alternative solution: *97, 0, 1, 0, 2* split.]
 
 ## Explanation
 
