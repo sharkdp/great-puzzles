@@ -17,7 +17,8 @@ has an equal number of face-up cards.
 ## Puzzle two
 
 On one side of the table there are five dice which add up to 15. On the other
-side of the table there are another five dice which add up to 13. Move some
-dice around so that the two sides of the table have equal sums.
+side of the table there are another five dice which add up to 13. You don't
+know which side is which. Move some dice around so that the two sides of the
+table have equal sums.
 
 [See the solution](solution2.md)
