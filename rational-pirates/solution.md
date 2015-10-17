@@ -20,7 +20,7 @@ result will be *Y Y N*. Remember that pirate *D* will die if he votes no, so he
 will be in favor of this split.
 
 * 4 Pirates *B C D E*: Pirate *B* will propose a *98, 0, 1, 1* split. The
-voting will be *Y N Y Y*. Both *C* and *E* will vote in favor of this split
+voting will be *Y N Y Y*. Both *D* and *E* will vote in favor of this split
 because they would get 0 coins otherwise.
 
 * 5 Pirates *A B C D E*: Pirate *A* will propose a *97, 0, 1, 2, 0* split. The
