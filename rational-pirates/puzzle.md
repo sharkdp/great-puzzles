@@ -1,6 +1,5 @@
 # Rational pirates
 
-[![Source](https://img.shields.io/badge/Source-%E2%9C%93-green.svg)](https://en.wikibooks.org/wiki/Puzzles/Logic_puzzles/Gold_Coins)
 ![Difficulty](https://img.shields.io/badge/Difficulty-hard-red.svg)
 
 Four pirates of different ages find a treasure of 100 gold coins. On their
