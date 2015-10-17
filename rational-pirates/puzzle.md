@@ -3,7 +3,7 @@
 [![Source](https://img.shields.io/badge/Source-%E2%9C%93-green.svg)](https://en.wikibooks.org/wiki/Puzzles/Logic_puzzles/Gold_Coins)
 ![Difficulty](https://img.shields.io/badge/Difficulty-hard-red.svg)
 
-Five pirates of different ages find a treasure of 100 gold coins. On their
+Four pirates of different ages find a treasure of 100 gold coins. On their
 ship, they decide to split the coins using this scheme: the oldest pirate alive
 will propose how the coins will be distributed among the pirates, and all
 pirates remaining (including the one which made the proposition) will vote for
@@ -19,6 +19,6 @@ trust each other, and will neither make nor honor any promises between pirates
 apart from a proposed distribution plan that gives a whole number of gold coins
 to each pirate.
 
-Assuming that all five pirates are perfectly rational, what will happen?
+Assuming that all four pirates are perfectly rational, what will happen?
 
 [See solution](solution.md)
