@@ -7,3 +7,7 @@ monsters angular velocity. This means that if you row around a circle of radius
 you:
 
 ![Starting point for your escape](solution.png)
+
+From here, you can row straight to shore. The remaining distance is *R - r ≈
+3/4 · R*. The monster has to run a half circle along the shore, a distance of
+*π R*. This is more than four times larger than your distance. You escape.
