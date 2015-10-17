@@ -11,3 +11,6 @@ then one mile east, then one mile north and end up in the same spot you
 started?
 
 [See solution](solution.md)
+
+Notes:
+- Suppose that the surface of the earth is a perfect sphere, no mountains or valleys.
