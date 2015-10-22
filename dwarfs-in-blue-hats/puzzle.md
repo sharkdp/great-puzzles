@@ -9,7 +9,7 @@ The dwarfs know for sure that **there is at least one dwarf who wears a blue hat
 
 The whole process repeats day after day (after day after day after day) until all the dwarfs in blue hats have stepped out.
 
-**Question:** What will be happening if Snow White feels adventurous and dresses every single dwarf in a blue hat? The full answer would be to explain what will the dwarfs do, when and why.
+**Question:** What will be happening if Snow White feels adventurous and dresses **every single dwarf in a blue hat**? The full answer would be to explain what will the dwarfs do, when and why.
 
 As usual there is no communication between the dwarfs or the Snow White whatsoever (the heroes of the puzzles, generally are quite intrinsically oriented).
 
