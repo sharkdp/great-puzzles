@@ -8,6 +8,7 @@ corrections or clarifications.
 
 ## Choose a puzzle
 
+* [Grouped by color](grouped-by-color/puzzle.md)
 * [Strange round trip](strange-round-trip/puzzle.md)
 * [Blindfolded tricks](blindfolded-tricks/puzzle.md)
 * [Ants on a meter stick](ants-on-a-meter-stick/puzzle.md)
