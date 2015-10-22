@@ -11,6 +11,6 @@ The whole process repeats day after day (after day after day after day) until al
 
 **Question:** What will be happening if Snow White feels adventurous and dresses **every single dwarf in a blue hat**? The full answer would be to explain what will the dwarfs do, when and why.
 
-As usual there is no communication between the dwarfs or the Snow White whatsoever (the heroes of the puzzles, generally are quite intrinsically oriented).
+As usual there is no communication between the dwarfs whatsoever (the heroes of the puzzles, generally are quite intrinsically oriented).
 
 [See solution](solution.md)
