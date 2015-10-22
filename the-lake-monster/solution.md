@@ -13,5 +13,5 @@ From here, you can row straight to shore. The remaining distance is *R - r ≈
 *π R*. This is more than four times larger than your distance. You escape.
 
 
-See [http://datagenetics.com/blog/october12013/index.html](this blog entry) for
+See [this blog entry](http://datagenetics.com/blog/october12013/index.html) for
 a detailed discussion of the solution.
