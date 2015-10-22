@@ -14,8 +14,9 @@ gold coins *and* throw as many other pirates overboard as he possibly can.
 Consequently, no matter what *C* proposes, *D* will *always* vote against him.
 
 * 3 Pirates *B C D*: Pirate *B* will propose a *100, 0, 0* split. The voting
-result will be *Y Y N*. Remember that pirate *C* will die if he votes no, so he
-will be in favor of this split.
+result will be *Y Y N*. Remember that pirate *C* will die if he votes no
+(because he will end up in the 2 Pirates situation from above), so he will be
+in favor of this split.
 
 * 4 Pirates *A B C D*: Pirate *A* will propose a *98, 0, 1, 1* split. The
 voting will be *Y N Y Y*. Both *C* and *D* will vote in favor of this split
