@@ -11,3 +11,7 @@ you:
 From here, you can row straight to shore. The remaining distance is *R - r ≈
 3/4 · R*. The monster has to run a half circle along the shore, a distance of
 *π R*. This is more than four times larger than your distance. You escape.
+
+
+See [http://datagenetics.com/blog/october12013/index.html](this blog entry) for
+a detailed discussion of the solution.
