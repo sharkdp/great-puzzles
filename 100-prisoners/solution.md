@@ -1,5 +1,15 @@
 # 100 prisoners: solution
 
+See the Wikipedia page for the
+[100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem)
+for a very good description of the solution (or see the summary below).
+
+See also: a [description of the puzzle](https://www.youtube.com/watch?v=eivGlBKlK6M)
+by MinutePhysics on YouTube and the
+[explanation of the solution](https://www.youtube.com/watch?v=C5-I0bAuEUE).
+
+---
+
 Surprisingly, there is a strategy which gives the prisoners a survival
 probability of more than 30%. The key to success is that the prisoners do not
 have to decide beforehand which drawers they are going to open. Each prisoner
@@ -23,10 +33,3 @@ drawer. The strategy is now as follows:
 This approach ensures that every time a prisoner opens a drawer he either finds
 his own number or the number of another prisoner he has not encountered so far.
 
-See the Wikipedia page for the
-[100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem)
-for a very good description of the solution.
-
-See also: a version of the puzzle by MinutePhysics on YouTube:
-[Puzzle](https://www.youtube.com/watch?v=eivGlBKlK6M) and
-[Solution](https://www.youtube.com/watch?v=C5-I0bAuEUE)
