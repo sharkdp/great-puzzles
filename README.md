@@ -13,6 +13,7 @@ corrections or clarifications.
 * [Ants on a meter stick](ants-on-a-meter-stick/puzzle.md)
 * [Rational pirates](rational-pirates/puzzle.md)
 * [The lake monster](the-lake-monster/puzzle.md)
+* [100 prisoners](100-prisoners/puzzle.md)
 
 ## Guidelines for new puzzles
 
