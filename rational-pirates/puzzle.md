@@ -20,4 +20,6 @@ to each pirate.
 
 Assuming that all four pirates are perfectly rational, what will happen?
 
+[See hint](hint.md)
+
 [See solution](solution.md)
