@@ -1,4 +1,4 @@
-# The lake monster
+# The lake monster: solution
 
 Let the lake have a radius of *R*. The lake is divided into two regions. Inside
 the circle of radius *R / 4*, your *angular velocity* is larger than the

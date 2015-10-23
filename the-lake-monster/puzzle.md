@@ -17,4 +17,6 @@ you are dead!
 
 Can you escape?
 
-[See the solution](solution.md)
+[See hint](hint.md)
+
+[See solution](solution.md)
