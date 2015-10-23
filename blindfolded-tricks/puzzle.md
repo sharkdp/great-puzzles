@@ -8,9 +8,10 @@ table and tell you that if you can solve two puzzles then they will let you go.
 
 ## Puzzle one
 
-There is a deck of 52 cards on the table in front of you. Ten of them are
-face-up and the rest are face-down. Split the deck such that each new stack has
-an equal number of face-up cards.
+There is a deck of 52 cards on the table in front of you. Ten cards in the deck
+are face-up and the rest are face-down (the face-up cards are distributed
+randomly within the deck). Split the deck into two stacks (of possibly unequal
+sizes) such that each stack has an equal number of face-up cards.
 
 [See the solution](solution1.md)
 
