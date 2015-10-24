@@ -15,6 +15,7 @@ corrections or clarifications.
 * [Rational pirates](rational-pirates/puzzle.md)
 * [The lake monster](the-lake-monster/puzzle.md)
 * [100 prisoners](100-prisoners/puzzle.md)
+* [Three gods](three-gods/puzzle.md)
 
 ## Guidelines for new puzzles
 
