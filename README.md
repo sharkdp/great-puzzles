@@ -16,6 +16,7 @@ corrections or clarifications.
 * [The lake monster](the-lake-monster/puzzle.md)
 * [100 prisoners](100-prisoners/puzzle.md)
 * [Three gods](three-gods/puzzle.md)
+* [21 wires](21-wires/puzzle.md)
 
 ## Guidelines for new puzzles
 
