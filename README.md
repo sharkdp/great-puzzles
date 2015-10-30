@@ -47,3 +47,8 @@ similar to solving a Sudoko - it involves long, repetitive work.
 2. [String girdling Earth](https://en.wikipedia.org/wiki/String_girdling_Earth).
 While this is a nice question with a counter-intuitive answer, it is just a
 simple math exercise that doesn't require puzzle-solving skills.
+
+## Great resources
+
+* [XKCD Wiki: Puzzles](http://wiki.xkcd.com/irc/Puzzles)
+* [Wu Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
