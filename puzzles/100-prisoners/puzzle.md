@@ -24,3 +24,8 @@ number. The situation appears hopeless for the prisoners.
 Can you find a (much) better strategy for the prisoners?
 
 [See solution](solution.md)
+
+Remark: While it is possible to come up with the correct answer without
+advanced mathematics, you may need to write a small simulation or have
+some knowledge about combinatorics to derive the exact probability for
+winning.
