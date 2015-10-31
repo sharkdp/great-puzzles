@@ -1,7 +1,7 @@
 # Blue eyes
 
 [![Source](https://img.shields.io/badge/Source-%E2%9C%93-green.svg)](http://xkcd.com/blue_eyes.html)
-![Difficulty](https://img.shields.io/badge/Difficulty-medium-hard.svg)
+![Difficulty](https://img.shields.io/badge/Difficulty-hard-red.svg)
 
 A group of people with assorted eye colors live on an island. They are all
 perfect logicians - if a conclusion can be logically deduced, they will do

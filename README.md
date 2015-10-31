@@ -15,6 +15,7 @@ corrections or clarifications.
 * [Ants on a meter stick](puzzles/ants-on-a-meter-stick/puzzle.md)
 * [Rational pirates](puzzles/rational-pirates/puzzle.md)
 * [The lake monster](puzzles/the-lake-monster/puzzle.md)
+* [Blue eyes](puzzles/blue-eyes/puzzle.md)
 * [100 prisoners](puzzles/100-prisoners/puzzle.md)
 
 ## Guidelines for new puzzles
