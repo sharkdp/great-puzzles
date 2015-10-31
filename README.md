@@ -11,11 +11,11 @@ corrections or clarifications.
 * [Grouped by color](grouped-by-color/puzzle.md)
 * [Strange round trip](strange-round-trip/puzzle.md)
 * [Blindfolded tricks](blindfolded-tricks/puzzle.md)
+* [Fork in the road](fork-in-the-road/puzzle.md)
 * [Ants on a meter stick](ants-on-a-meter-stick/puzzle.md)
 * [Rational pirates](rational-pirates/puzzle.md)
 * [The lake monster](the-lake-monster/puzzle.md)
 * [100 prisoners](100-prisoners/puzzle.md)
-* [Three gods](three-gods/puzzle.md)
 
 ## Guidelines for new puzzles
 
