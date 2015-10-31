@@ -47,10 +47,11 @@ is enough information to figure out all connections.
 
 As an example, consider the letter `B`. In the first measurement (on the top),
 we found out that it is connected to the group of three wires at the bottom
-(`3`, `4` and `5`). Back at the bottom, we will find a group of five numbers
+(`4`, `5` and `6`). Back at the bottom, we will find a group of five numbers
 which are connected to `B`. *Exactly one* of these five numbers will be equal
-to *either* `3`, `4` or `5` (say: `5`). We now know that `B` and `5` are
-connected (`3` and `4` will appear in groups of four and six).
+to *either* `4`, `5` or `6` (say: `6`). We now know that `B` and `6` are
+opposite sides of one wire (`4` and `5` have to appear in groups of sizes four
+and six).
 
 This solution works cleanly for any
 [triangular number](https://en.wikipedia.org/wiki/Triangular_number)
