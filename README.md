@@ -17,6 +17,7 @@ corrections or clarifications.
 * [The lake monster](puzzles/the-lake-monster/puzzle.md)
 * [Blue eyes](puzzles/blue-eyes/puzzle.md)
 * [100 prisoners](puzzles/100-prisoners/puzzle.md)
+* [21 wires](puzzles/21-wires/puzzle.md)
 
 ## Guidelines for new puzzles
 
