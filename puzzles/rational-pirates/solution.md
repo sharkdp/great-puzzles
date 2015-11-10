@@ -26,7 +26,7 @@ because they would get 0 coins otherwise.
 
 See the following sources for variants of this puzzle:
 
-* https://de.wikipedia.org/wiki/Pirate_game Five pirates and a different
+* https://en.wikipedia.org/wiki/Pirate_game Five pirates and a different
   voting resolution (in case of a tie, there is a casting vote). This leads
   to a different solution.
 * https://en.wikibooks.org/wiki/Puzzles/Logic_puzzles/Gold_Coins Same voting
