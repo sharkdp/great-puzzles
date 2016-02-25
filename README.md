@@ -20,6 +20,7 @@ corrections or clarifications.
 * [Blue eyes](puzzles/blue-eyes/puzzle.md)
 * [100 prisoners](puzzles/100-prisoners/puzzle.md)
 * [21 wires](puzzles/21-wires/puzzle.md)
+* [Wizards and Dwarves](puzzles/wizards-and-dwarves/puzzle.md)
 
 ## Guidelines for new puzzles
 
