@@ -3,7 +3,7 @@
 [![Source](https://img.shields.io/badge/Source-%E2%9C%93-green.svg)](http://datagenetics.com/blog/october12013/index.html)
 ![Difficulty](https://img.shields.io/badge/Difficulty-medium-yellow.svg)
 
-Imagine you are sitting in a rowing boat in the middle of circular lake.
+Imagine you are sitting in a rowing boat in the middle of a circular lake.
 Standing on the edge of the lake is a hungry monster that cannot swim. The
 monster wants to eat you. You want to escape.
 
