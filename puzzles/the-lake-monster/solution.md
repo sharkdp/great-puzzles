@@ -15,3 +15,6 @@ From here, you can row straight to shore. The remaining distance is *R - r ≈
 
 See [this blog entry](http://datagenetics.com/blog/october12013/index.html) for
 a detailed discussion of the solution.
+
+Also, see [this Numberphile video](https://www.youtube.com/watch?v=vF_-ob9vseM)
+for an in-depth analysis and some nice animations.
