@@ -11,6 +11,7 @@ corrections or clarifications.
 * [Grouped by color](puzzles/grouped-by-color/puzzle.md)
 * [Burning ropes](puzzles/burning-ropes/puzzle.md)
 * [Strange round trip](puzzles/strange-round-trip/puzzle.md)
+* [Brownie pan](puzzles/brownie-pan/puzzle.md)
 * [Missing square](puzzles/missing-square/puzzle.md)
 * [Blindfolded tricks](puzzles/blindfolded-tricks/puzzle.md)
 * [Fork in the road](puzzles/fork-in-the-road/puzzle.md)
